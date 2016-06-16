@@ -1,6 +1,6 @@
 {
     "name": "artis-mosties/oauth",
-    "description": "PHP 5.3+ oAuth 1/2 Library",
+    "description": "PHP 5.4+ oAuth 1/2 Library",
     "keywords": ["oauth", "authentication", "authorization", "security"],
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.4.0"
     },
     "require-dev": {
         "symfony/http-foundation": "~2.1",
